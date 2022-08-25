@@ -232,7 +232,7 @@ Display the contact email address set in the configuration file.
   {% else %}
   to-be-announced
   {% endif %}
-  for more information.
+  for more information. Registration is via the University's [Personal Development Management System](https://www.st-andrews.ac.uk/pdms/index.php?mode=single&query=13059).
 </p>
 
 <p id="roles">
@@ -408,6 +408,12 @@ please preview your site before committing, and make sure to run
   We maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
+</p>
+<p>
+  If you are using a University-managed computer and are having difficulty installing the necessary
+  software, please get in touch with
+  [research-computing@st-andrews.ac.uk](mailto:research-computing@st-andrews.ac.uk) as far in
+  advance of the workshop as possible.
 </p>
 
 {% comment %}
